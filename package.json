@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "main": "lib/grid/index.js",
   "dependencies": {
-    "selenium-server-standalone-jar": ">= 2.45.0",
+    "selenium-server-standalone-jar": ">= 2.45.0"
   },
   "devDependencies": {
     "standard": "^5.4.1"
