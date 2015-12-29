@@ -1,6 +1,6 @@
 {
   "name": "grid-launcher",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "lib/grid/index.js",
   "dependencies": {
     "selenium-server-standalone-jar": ">= 2.45.0"
